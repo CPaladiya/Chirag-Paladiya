@@ -13,7 +13,13 @@
 > Creating engineering solutions, software systems and products that are environmently optimal, robust, sturdy, inherently intiutive to use and beautiful to look at with larger than life character to it!</br>
 
 ## My C++/Python Programming Projects
-+ Black Jack GUI Game : C++, OOP, Qt5 (Completed June 2021)
+
+| Black Jack GUI Game : C++, OOP, Qt5 (Completed : June 2021) | Concurrent Traffic Simulation (Completed : April 2021)|
+| ----------------------------------------------------------- | ----------------------------------------------------- |
+| sdfasdfadf| sdfsdfsd|
+
+
+
 
 
 
