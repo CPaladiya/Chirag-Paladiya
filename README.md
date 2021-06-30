@@ -16,7 +16,7 @@
 
 | Black Jack GUI Game : C++, OOP, Qt5 (Completed : June 2021) | Concurrent Traffic Simulation (Completed : April 2021)|
 | ----------------------------------------------------------- | ----------------------------------------------------- |
-| sdfasdfadf| sdfsdfsd|
+| <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/HitNStay.png" width="900"> | <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/HitNStay.png" width="900"> |
 
 
 
