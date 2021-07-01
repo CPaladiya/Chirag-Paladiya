@@ -1,12 +1,12 @@
 # Chirag Paladiya
 
-## Recent Grad : C++ Dev : Udacity : Ready to Join Your Team!
+## Recent Grad : C++ Dev : Udacity : Ready To Join Your Team!
 
-## What am I currently working on?
+## What Am I Currently Working On?
 + Developing my own Algorithm <code>Multiple Line Of Sights : MLOS</code> that superseeds <code> A-Star Path Search</code> Algorithm. I plan to make GUI project to showcase my algorithm.
 + Preparing for coding interviews to join ambitious and talented team as a ***Junior C++ Developer***, whoes mission and vision aligns with mine.
 
-## My Mission and Vision in life
+## My Mission and Vision In Life
 
 + :dart::earth_asia: My Mission : 
 > Creating engineering solutions, software systems and products that are environmently optimal, robust, sturdy, inherently intiutive to use and beautiful to look at with larger than life character to it!</br>
@@ -39,9 +39,14 @@
 </br>
 
 
-## IKM Assessment Results : Objective proof of C++ programming skills
+## IKM Assessment Results : Objective Proof of C++ Programming Skills
 
-<img src="https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg" width="900">
+<img src="https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_AssessmentPartial.png" width="900">
+
+If you want to look at the full result, please click [here!](https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg)
+
+## Professional Creations Before Programming
+
 
 
 
