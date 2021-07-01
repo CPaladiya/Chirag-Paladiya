@@ -34,7 +34,7 @@
 | [Live Linux System Monitor](https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya) (Partially Owned, Completed : Feb 2021)|
 | :---: |
 |  **Tools Used :** C++, NCurses |
-| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="950"> |
+| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="990"> |
 
 </br>
 
