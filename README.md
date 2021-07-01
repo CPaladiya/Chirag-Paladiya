@@ -5,6 +5,9 @@
 ## Go to section
 + [What Am I Currently Working On?](#What-Am-I-Currently-Working-On?)
 + [My Mission and Vision In Life](#My-Mission-and-Vision-In-Life)
++ [My C++/Python Programming Projects So Far](#My-C++/Python-Programming-Projects-So-Far)
++ [IKM Assessment (C++17 ISO STANDARD)](#IKM-Assessment-(C++17-ISO-STANDARD))
++ [Next Projects and Estimated Time of Completion](#Next-Projects-and-Estimated-Time-of-Completion)
 
 ## What Am I Currently Working On?
 + Developing my own Algorithm <code>Multiple Line Of Sights : MLOS</code> that superseeds <code> A-Star Path Search</code> Algorithm. I plan to make GUI project to showcase my algorithm.
@@ -43,7 +46,7 @@
 </br>
 
 
-## IKM Assessment Results : Objective Proof of C++ Programming Skills
+## IKM Assessment (C++17 ISO STANDARD)
 
 <img src="https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_AssessmentPartial.png" width="1100">
 
