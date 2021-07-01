@@ -1,23 +1,41 @@
 # Chirag Paladiya
 
-## Recent Grad : C++ Dev : Udacity
+## Recent Grad : C++ Dev : Udacity : Ready to Join Your Team!
 
 ## What am I currently working on?
-+ Developing my own Algorithm <code>Multiple Line Of Sights : MLOS</code> that superseeds A-Star Path Search Algorithm. I plan to make GUI project to showcase my algorithm.
++ Developing my own Algorithm <code>Multiple Line Of Sights : MLOS</code> that superseeds <code> A-Star Path Search</code> Algorithm. I plan to make GUI project to showcase my algorithm.
 + Preparing for coding interviews to join ambitious and talented team as a ***Junior C++ Developer***, whoes mission and vision aligns with mine.
 
 ## My Mission and Vision in life
-+ :dart::checkered_flag: My Vision : 
-> I want to leave behind a better and a sentient world than I know as it is today. Through my work and attitude towards life, I want to positively influence people I am surrounded with and those who rely on the products that I help create. I believe in looking at bigger picture, doing good and pouring my heart and soul into my creations!</br>
+
 + :dart::earth_asia: My Mission : 
 > Creating engineering solutions, software systems and products that are environmently optimal, robust, sturdy, inherently intiutive to use and beautiful to look at with larger than life character to it!</br>
++ :dart::checkered_flag: My Vision : 
+> I want to leave behind a better and a sentient world than I know as it is today. Through my work and attitude towards life, I want to positively influence people I am surrounded with and those who rely on the products that I help create. I believe in looking at bigger picture, doing good and pouring my heart and soul into my creations!</br>
+
 
 ## My C++/Python Programming Projects
 
 | Black Jack GUI Game (Completed : June 2021) | Concurrent Traffic Simulation (Completed : April 2021)|
 | :---: | :---: |
-|  **Tools Used :** C++, OOP, Qt5 | **Tools Used :** Concurrency, Locks, Mutex, C++, OOP |
+|  **Tools Used :** C++, OOP, Qt5 | **Tools Used :**  C++, Multi-threading, Concurrency, Locks, Mutex, OOP |
 | <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="900"> | <img src="https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation/blob/master/build/ConcurrentTrafficSimulation%20(1).gif" width="760"> |
+
+</br>
+
+| The Shooting Star (Completed : May 2021) | 2D Trajectory Simulator for Acceleration Data </br> (Completed : Jan 2021)|
+| :---: | :---: |
+|  **Tools Used :** C++, OpenCV | **Tools Used :** Python, XLRD, MatPlotlib, NumPy |
+| <img src="https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/build/TheShootingStar.gif" width="900"> | <img src="https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator/blob/No-preprocess/Images/2DTrajectory.gif" width="760"> |
+
+</br>
+
+| Live Linux System Monitor (Completed : Feb 2021)|
+| :---: |
+|  **Tools Used :** C++, NCurses |
+| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="900"> |
+
+## Objective proof of my skills
 
 
 
