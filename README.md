@@ -43,7 +43,7 @@
 
 <img src="https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_AssessmentPartial.png" width="900">
 
-If you want to look at the full result, please click [here!](https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg)
+To check the full analysis, please click [here!](https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg)
 
 ## Next Projects and Estimated Time of Completion
 
