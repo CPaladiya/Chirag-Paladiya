@@ -1,4 +1,4 @@
-# Chirag Paladiya
+# Chirag Paladiya : My Programming Profile
 
 ## Recent Grad : C++ Dev : Udacity : Ready To Join Your Team!
 
