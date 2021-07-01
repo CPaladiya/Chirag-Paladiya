@@ -14,7 +14,7 @@
 > I want to leave behind a better and a sentient world than I know as it is today. Through my work and attitude towards life, I want to positively influence people I am surrounded with and those who rely on the products that I help create. I believe in looking at bigger picture, doing good and pouring my heart and soul into my creations!</br>
 
 
-## My C++/Python Programming Projects
+## My C++/Python Programming Projects So Far
 
 | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) | [Concurrent Traffic Simulation](https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation) </br> (Partially Owned, Completed : April 2021)|
 | :---: | :---: |
@@ -45,7 +45,10 @@
 
 If you want to look at the full result, please click [here!](https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg)
 
-## Professional Creations Before Programming
+## Next Projects and Estimated Time of Completion
+
+
+
 
 
 
