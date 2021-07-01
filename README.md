@@ -16,24 +16,28 @@
 
 ## My C++/Python Programming Projects
 
-| Black Jack GUI Game (Completed : June 2021) | Concurrent Traffic Simulation (Completed : April 2021)|
+| [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) | [Concurrent Traffic Simulation](https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation) </br> (Partially Owned, Completed : April 2021)|
 | :---: | :---: |
 |  **Tools Used :** C++, OOP, Qt5 | **Tools Used :**  C++, Multi-threading, Concurrency, Locks, Mutex, OOP |
 | <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="900"> | <img src="https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation/blob/master/build/ConcurrentTrafficSimulation%20(1).gif" width="760"> |
 
+
 </br>
 
-| The Shooting Star (Completed : May 2021) | 2D Trajectory Simulator for Acceleration Data </br> (Completed : Jan 2021)|
+| [Live Linux System Monitor](https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya) (Partially Owned, Completed : Feb 2021)|
+| :---: |
+|  **Tools Used :** C++, NCurses |
+| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="950"> |
+
+</br>
+
+| [The Shooting Star](https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/main.cpp) </br>(Fully Owned, Completed : May 2021) | [2D Trajectory Simulator for Acceleration Data](https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator) </br> (Fully Owned, Completed : Jan 2021)|
 | :---: | :---: |
 |  **Tools Used :** C++, OpenCV | **Tools Used :** Python, XLRD, MatPlotlib, NumPy |
 | <img src="https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/build/TheShootingStar.gif" width="900"> | <img src="https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator/blob/No-preprocess/Images/2DTrajectory.gif" width="610"> |
 
 </br>
 
-| Live Linux System Monitor (Completed : Feb 2021)|
-| :---: |
-|  **Tools Used :** C++, NCurses |
-| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="950"> |
 
 ## IKM Assessment Results : Objective proof of C++ programming skills
 
