@@ -8,6 +8,8 @@
 + [My C++/Python Programming Projects So Far](#My-C++/Python-Programming-Projects-So-Far)
 + [IKM Assessment (C++17 ISO STANDARD)](#IKM-Assessment-(C++17-ISO-STANDARD))
 + [Next Projects and Estimated Time of Completion](#Next-Projects-and-Estimated-Time-of-Completion)
++ [Rough Road To My Calling](#Rough-Road-To-My-Calling)
++ [Before Programming](#Before-Programming)
 
 ## What Am I Currently Working On?
 + Developing my own Algorithm <code>Multiple Line Of Sights : MLOS</code> that superseeds <code> A-Star Path Search</code> Algorithm. I plan to make GUI project to showcase my algorithm.
@@ -62,6 +64,23 @@ Want to check the full analysis? please click [here!](https://github.com/CPaladi
 | Invisible link in a </br>hemishperical dome | Camera mounted on an arm following object in a hemespherical space maintaining a fix distance from the object | 30 July 2021 |
 
 </br>
+
+## Rough Road To My Calling
+
+| Name Of The Course | Approx. Hours | Approx. Weeks | Source | Start Date | End Date |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| C++ NanoDegree | 290-320 | 22-23 | [Udacity](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) | Jan 2021 | June 2021 |
+| CMake and Make | 40 | 3 | [TechnoCupid](https://courses.technocupid.com/courses/cmake)| April 2021 | May 2021 |
+| Refresh Your Resume | 6 | 1 | [Udacity](https://www.udacity.com/course/refresh-your-resume--ud243)| May 2021 | May 2021 |
+| Intro to Self-Driving Cars | 160 | 12-13 | [Udacity](https://www.udacity.com/course/intro-to-self-driving-cars--nd113)| Sep 2020 | Dec 2020 |
+| Version Control with Git | 20 | 4 | [Udacity](https://www.udacity.com/course/intro-to-self-driving-cars--nd113)| Nov 2020 | Dec 2020 |
+| Essence of Calculus | 16 | 1 | [3Blue1Brown](https://lnkd.in/eTwfAgf)| Aug 2020 | Aug 2020 |
+| Essence of linear algebra | 16 | 2 | [3Blue1Brown](https://lnkd.in/eTqsWQr)| Jul 2020 | Jul 2020 |
+| Introduction to Python | 40 | 3 | [Udacity](https://bit.ly/2TclkYz)| June 2020 | Jul 2020 |
+| Statistics and probability | 75 | 14-15 | [Khan Academy](https://www.khanacademy.org/math/statistics-probability)| May 2020 | June 2020 |
+
+
+## Before Programming
 
 
 
