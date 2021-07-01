@@ -26,16 +26,18 @@
 | The Shooting Star (Completed : May 2021) | 2D Trajectory Simulator for Acceleration Data </br> (Completed : Jan 2021)|
 | :---: | :---: |
 |  **Tools Used :** C++, OpenCV | **Tools Used :** Python, XLRD, MatPlotlib, NumPy |
-| <img src="https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/build/TheShootingStar.gif" width="900"> | <img src="https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator/blob/No-preprocess/Images/2DTrajectory.gif" width="760"> |
+| <img src="https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/build/TheShootingStar.gif" width="900"> | <img src="https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator/blob/No-preprocess/Images/2DTrajectory.gif" width="610"> |
 
 </br>
 
 | Live Linux System Monitor (Completed : Feb 2021)|
 | :---: |
 |  **Tools Used :** C++, NCurses |
-| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="900"> |
+| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="950"> |
 
-## Objective proof of my skills
+## IKM Assessment Results : Objective proof of C++ programming skills
+
+
 
 
 
