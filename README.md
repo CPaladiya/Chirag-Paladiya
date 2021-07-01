@@ -57,9 +57,9 @@ Want to check the full analysis? please click [here!](https://github.com/CPaladi
 | Name Of The Project | Description | Aimed Completion Date |
 | :---: | :---: | :---: |
 | Multiple Line Of Sights (Showcase GUI) : MLOS : path search algorithm  | Optimal path search algorithm that uses output of A-Star Search Algorithm and provides even better and shorter path for the same origin and destination| 7 July 2021 |
-| 3D Trajectory Simulator : Acceleration data  | Plotting and simulating 3D geometry of the path travelled using avialable 6-Axis linear and angular acceleration data | 12 July 2021 |
-| Object tracking in hemishperical dome | Camera turret holder following object in a hemespherical space with the help of OpenCV and Kalman Filter | 20 July 2021 |
-| Invisible link in a hemishperical dome | Camera mounted on an arm following object in a hemespherical space maintaining a fix distance from the object | 30 July 2021 |
+| 3D Trajectory Simulator : </br>Acceleration data  | Plotting and simulating 3D geometry of the path travelled using avialable 6-Axis linear and angular acceleration data | 12 July 2021 |
+| Object tracking in </br>hemishperical dome | Camera turret holder following object in a hemespherical space with the help of OpenCV and Kalman Filter | 20 July 2021 |
+| Invisible link in a </br>hemishperical dome | Camera mounted on an arm following object in a hemespherical space maintaining a fix distance from the object | 30 July 2021 |
 
 </br>
 
