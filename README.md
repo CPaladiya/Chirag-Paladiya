@@ -49,7 +49,7 @@ If you want to look at the full result, please click [here!](https://github.com/
 
 | Name Of The Project | What Does It Do? | Aimed Completion Date |
 | :---: | :---: | :---: |
-| Multiple Line Of Sights : MLOS : path search algorithm  | Optimal path search algorithm that uses output of A-Star Search Algorithm and provides even better and shorter path for the same origin and destination| 6 July 2021 |
+| Multiple Line Of Sights (Showcase GUI) : MLOS : path search algorithm  | Optimal path search algorithm that uses output of A-Star Search Algorithm and provides even better and shorter path for the same origin and destination| 6 July 2021 |
 
 </br>
 
