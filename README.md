@@ -41,6 +41,7 @@
 
 ## IKM Assessment Results : Objective proof of C++ programming skills
 
+<img src="https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg" width="900">
 
 
 
