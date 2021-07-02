@@ -10,6 +10,7 @@
 + [Next Projects and Estimated Time of Completion](#Next-Projects-and-Estimated-Time-of-Completion)
 + [Rough Road To My Calling](#Rough-Road-To-My-Calling)
 + [Professional Experience Before Programming](https://github.com/CPaladiya/Before_Programming/blob/main/README.md)
++ [Sweet Fruits Of Life!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md#checkered_flag-sweet-fruits-of-life-checkered_flag)
 
 ## What Am I Currently Working On?
 + Developing my own Algorithm <code>Multiple Line Of Sights : MLOS</code> that supersedes <code> A-Star Path Search</code> Algorithm. I plan to make GUI project to showcase my algorithm.
