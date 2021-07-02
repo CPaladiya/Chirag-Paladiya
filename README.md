@@ -1,4 +1,4 @@
-# Chirag Paladiya [:email:](chirag.paladiya@hotmail.com) [:telephone_receiver:](+1-343-333-9399)
+# Chirag Paladiya
 
 ## Recent Grad : C++ Dev : Udacity : Ready To Join Your Team!
 
