@@ -11,13 +11,13 @@
 + [Rough Road To My Calling](#Rough-Road-To-My-Calling)
 
 ## What Am I Currently Working On?
-+ Developing my own Algorithm <code>Multiple Line Of Sights : MLOS</code> that superseeds <code> A-Star Path Search</code> Algorithm. I plan to make GUI project to showcase my algorithm.
-+ Preparing for coding interviews to join ambitious and talented team as a ***Junior C++ Developer***, whoes mission and vision aligns with mine.
++ Developing my own Algorithm <code>Multiple Line Of Sights : MLOS</code> that supersedes <code> A-Star Path Search</code> Algorithm. I plan to make GUI project to showcase my algorithm.
++ Preparing for coding interviews to join ambitious and talented team as a ***Junior C++ Developer***, whose mission and vision aligns with mine.
 
 ## My Mission and Vision In Life
 
 + :dart::earth_asia: My Mission : 
-> Creating engineering solutions, software systems and products that are environmently optimal, robust, sturdy, inherently intiutive to use and beautiful to look at with larger than life character to it!</br>
+> Creating engineering solutions, software systems and products that are environmentally optimal, robust, sturdy, inherently intuitive to use and beautiful to look at with larger than life character to it!</br>
 + :dart::checkered_flag: My Vision : 
 > I want to leave behind a better and a sentient world than I know as it is today. Through my work and attitude towards life, I want to positively influence people I am surrounded with and those who rely on the products that I help create. I believe in looking at bigger picture, doing good and pouring my heart and soul into my creations!</br>
 
@@ -66,8 +66,8 @@ Want to check the full analysis? please click [here!](https://github.com/CPaladi
 | :---: | :---: | :---: |
 | Multiple Line Of Sights (Showcase GUI) : MLOS : path search algorithm  | Optimal path search algorithm that uses output of A-Star Search Algorithm and provides even better and shorter path for the same origin and destination| 7 July 2021 |
 | 3D Trajectory Simulator : </br>Acceleration data  | Plotting and simulating 3D geometry of the path travelled using avialable 6-Axis linear and angular acceleration data | 12 July 2021 |
-| Object tracking in </br>hemishperical dome | Camera turret holder following object in a hemespherical space with the help of OpenCV and Kalman Filter | 20 July 2021 |
-| Invisible link in a </br>hemishperical dome | Camera mounted on an arm following object in a hemespherical space maintaining a fix distance from the object | 30 July 2021 |
+| Object tracking in </br>hemispherical dome | Camera turret holder following object in a hemispherical space with the help of OpenCV and Kalman Filter | 20 July 2021 |
+| Invisible link in a </br>hemispherical dome | Camera mounted on an arm following object in a hemispherical space maintaining a fix distance from the object | 30 July 2021 |
 
 </br>
 
