@@ -1,6 +1,7 @@
 # Chirag Paladiya
 
 ## Recent Grad : C++ Dev : Udacity : Ready To Join Your Team!
+> ✉️ Chirag.paladiya@hotmail.com 📞343-333-9399
 
 ## Go To Section
 + [What Am I Currently Working On?](#What-Am-I-Currently-Working-On?)
