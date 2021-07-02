@@ -2,7 +2,7 @@
 
 ## Recent Grad : C++ Dev : Udacity : Ready To Join Your Team!
 
-## Go to section
+## Go To The Section
 + [What Am I Currently Working On?](#What-Am-I-Currently-Working-On?)
 + [My Mission and Vision In Life](#My-Mission-and-Vision-In-Life)
 + [My C++/Python Programming Projects So Far](#My-C++/Python-Programming-Projects-So-Far)
