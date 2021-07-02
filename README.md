@@ -95,5 +95,3 @@ Every single waking minute and 670+ relentless hours spent while working full ti
 ## Professional Experience Before Programming - [Check it out here!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md)
 ## Sweet Fruits Of Life! - [Check it out here!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md#checkered_flag-sweet-fruits-of-life-checkered_flag)
 
-
-
