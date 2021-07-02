@@ -1,4 +1,4 @@
-# Chirag Paladiya
+# 💻 Chirag Paladiya : Programming Profile
 
 ## Recent Grad : C++ Dev : Udacity : Ready To Join Your Team!
 > ✉️ Chirag.paladiya@hotmail.com    📞343-333-9399
