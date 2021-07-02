@@ -9,7 +9,6 @@
 + [IKM Assessment (C++17 ISO STANDARD)](#IKM-Assessment-(C++17-ISO-STANDARD))
 + [Next Projects and Estimated Time of Completion](#Next-Projects-and-Estimated-Time-of-Completion)
 + [Rough Road To My Calling](#Rough-Road-To-My-Calling)
-+ [Before Programming](#Before-Programming)
 
 ## What Am I Currently Working On?
 + Developing my own Algorithm <code>Multiple Line Of Sights : MLOS</code> that superseeds <code> A-Star Path Search</code> Algorithm. I plan to make GUI project to showcase my algorithm.
