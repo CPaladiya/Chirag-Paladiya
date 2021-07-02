@@ -46,6 +46,13 @@
 
 </br>
 
+| Traffic Light Classifier (Fully Owned, Completed : Dec 2020)|
+| :---: |
+|  **Tools Used :** Python, OpenCV, NumPy, MatPlotLib |
+| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficLightClassifier.png" width="990"> |
+
+</br>
+
 
 ## IKM Assessment (C++17 ISO STANDARD)
 
