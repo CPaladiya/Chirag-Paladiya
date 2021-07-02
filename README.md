@@ -9,6 +9,7 @@
 + [IKM Assessment (C++17 ISO STANDARD)](#IKM-Assessment-(C++17-ISO-STANDARD))
 + [Next Projects and Estimated Time of Completion](#Next-Projects-and-Estimated-Time-of-Completion)
 + [Rough Road To My Calling](#Rough-Road-To-My-Calling)
++ [Professional Experience Before Programming](#Professional-Experience-Before-Programming)
 
 ## What Am I Currently Working On?
 + Developing my own Algorithm <code>Multiple Line Of Sights : MLOS</code> that supersedes <code> A-Star Path Search</code> Algorithm. I plan to make GUI project to showcase my algorithm.
@@ -89,6 +90,15 @@ Every single waking minute and 670+ relentless hours spent while working full ti
 | Introduction to Python | 40 | 3 | [Udacity](https://bit.ly/2TclkYz)| Jun 2020 | Jul 2020 |
 | Statistics and Probability | 75 | 14-15 | [Khan Academy](https://www.khanacademy.org/math/statistics-probability)| May 2020 | Jun 2020 |
 
+## Professional Experience Before Programming
+
+| **Mechanical Designer** : *Erie Architectural Products* : Sep 2019 to Jun 2021 |
+| :---: |
+|  Preparing fabrication drawing packages of curtain wall systems for production department |
+|  Projects worked on : Las Vegas Convention Center, LaGuardia Airport, etc. |
+| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="990"> |
+
+</br>
 
 
 
