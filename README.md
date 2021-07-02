@@ -91,10 +91,8 @@ Every single waking minute and 670+ relentless hours spent while working full ti
 | Introduction to Python | 40 | 3 | [Udacity](https://bit.ly/2TclkYz)| Jun 2020 | Jul 2020 |
 | Statistics and Probability | 75 | 14-15 | [Khan Academy](https://www.khanacademy.org/math/statistics-probability)| May 2020 | Jun 2020 |
 
-
-
-
-
+## Professional Experience Before Programming - [Check it out here!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md)
+## Sweet Fruits Of Life! - [Check it out here!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md#checkered_flag-sweet-fruits-of-life-checkered_flag)
 
 
 
