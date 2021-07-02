@@ -67,6 +67,10 @@ Want to check the full analysis? please click [here!](https://github.com/CPaladi
 
 ## Rough Road To My Calling
 
+> **Where there's a will, there's a way!**</br>
+Every single waking minute and 670+ relentless hours spent while working full time as a Mechanical Designer within last year. Here is the road I followed.
+
+
 | Name Of The Course | Approx. Hours | Approx. Weeks | Source | Start Date | End Date |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | C++ NanoDegree | 290-320 | 22-23 | [Udacity](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) | Jan 2021 | Jun 2021 |
@@ -77,9 +81,7 @@ Want to check the full analysis? please click [here!](https://github.com/CPaladi
 | Essence of Calculus | 20 | 4 | [3Blue1Brown](https://lnkd.in/eTwfAgf)| Aug 2020 | Aug 2020 |
 | Essence of linear algebra | 32 | 2 | [3Blue1Brown](https://lnkd.in/eTqsWQr)| Jul 2020 | Jul 2020 |
 | Introduction to Python | 40 | 3 | [Udacity](https://bit.ly/2TclkYz)| Jun 2020 | Jul 2020 |
-| Statistics and probability | 75 | 14-15 | [Khan Academy](https://www.khanacademy.org/math/statistics-probability)| May 2020 | Jun 2020 |
-
-## Before Programming
+| Statistics and Probability | 75 | 14-15 | [Khan Academy](https://www.khanacademy.org/math/statistics-probability)| May 2020 | Jun 2020 |
 
 
 
