@@ -67,10 +67,10 @@ Want to check the full analysis? please click [here!](https://github.com/CPaladi
 
 | Name Of The Project | Description | Aimed Completion Date |
 | :---: | :---: | :---: |
-| Multiple Line Of Sights (Showcase GUI) : MLOS : path search algorithm  | Optimal path search algorithm that uses output of A-Star Search Algorithm and provides even better and shorter path for the same origin and destination| 7 July 2021 |
-| 3D Trajectory Simulator : </br>Acceleration data  | Plotting and simulating 3D geometry of the path travelled using avialable 6-Axis linear and angular acceleration data | 12 July 2021 |
-| Object tracking in </br>hemispherical dome | Camera turret holder following object in a hemispherical space with the help of OpenCV and Kalman Filter | 20 July 2021 |
-| Invisible link in a </br>hemispherical dome | Camera mounted on an arm following object in a hemispherical space maintaining a fix distance from the object | 30 July 2021 |
+| Multiple Line Of Sights (Showcase GUI) : MLOS : path search algorithm  | Optimal path search algorithm that uses output of A-Star Search Algorithm and provides even better and shorter path for the same origin and destination| 10 July 2021 |
+| 3D Trajectory Simulator : </br>Acceleration data  | Plotting and simulating 3D geometry of the path travelled using avialable 6-Axis linear and angular acceleration data | 14 July 2021 |
+| Object tracking in </br>hemispherical dome | Camera turret holder following object in a hemispherical space with the help of OpenCV and Kalman Filter | 25 July 2021 |
+| Invisible link in a </br>hemispherical dome | Camera mounted on an arm following object in a hemispherical space maintaining a fix distance from the object | 10 Aug 2021 |
 
 </br>
 
@@ -82,6 +82,9 @@ Every single waking minute and 670+ relentless hours spent while working full ti
 
 | Name Of The Course | Approx. Hours | Approx. Weeks | Source | Start Date | End Date |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| Linux Command Line Basics (Continue) | 8 | 1 | [Udacity](https://classroom.udacity.com/courses/ud595) | July 2021 | July 2021 |
+| C++ Pointers (Continue) | 5 | 1 | [freeCodeCamp.org](https://www.youtube.com/watch?v=zuegQmMdy8M&ab_channel=freeCodeCamp.org) | July 2021 | July 2021 |
+| C++ Data Structures (Continue) | 15 | 1 | [freeCodeCamp.org](https://www.youtube.com/watch?v=B31LgI4Y4DQ&list=PLEYMhe1yRdYHRMvH6EUKKbHQzKB4vIQid&ab_channel=freeCodeCamp.org) | July 2021 | July 2021 |
 | C++ NanoDegree | 290-320 | 22-23 | [Udacity](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) | Jan 2021 | Jun 2021 |
 | CMake and Make | 40 | 3 | [TechnoCupid](https://courses.technocupid.com/courses/cmake)| April 2021 | May 2021 |
 | Refresh Your Resume | 6 | 1 | [Udacity](https://www.udacity.com/course/refresh-your-resume--ud243)| May 2021 | May 2021 |
