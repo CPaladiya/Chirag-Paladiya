@@ -57,11 +57,15 @@
 </br>
 
 
-## IKM Assessment (C++17 ISO STANDARD)
+## Coding Skills/IKM Assessment (C++17 ISO STANDARD)
+
+Want to check the full analysis? please click [here!](https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg)
 
 <img src="https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_AssessmentPartial.png" width="1100">
 
-Want to check the full analysis? please click [here!](https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg)
+HackerRank [Gold Badge](https://www.hackerrank.com/chirag_paladiya) in C++ coding skills,
+
+<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/HackerRank.png" width="100">
 
 ## Next Projects and Estimated Time of Completion
 
