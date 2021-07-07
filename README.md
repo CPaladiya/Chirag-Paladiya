@@ -1,7 +1,7 @@
 # 💻 Chirag Paladiya : Programming Profile
 
 ## Recent Grad : C++ Dev : Udacity : Ready To Join Your Team!
-> ✉️ Chirag.paladiya@hotmail.com
+> ✉️ Chirag.paladiya@hotmail.com 🖱️ [Youtube Channel](https://www.youtube.com/channel/UCVaBzSSeyxToSqVezKm9VaQ/videos) 🖥️ [Linkedin](https://www.linkedin.com/in/chiragpaladiya7979/)
 
 ## Go To Section
 + [What Am I Currently Working On?](#What-Am-I-Currently-Working-On?)
