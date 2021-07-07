@@ -67,7 +67,7 @@ Want to check the full analysis? please click [here!](https://github.com/CPaladi
 
 | Name Of The Project | Description | Aimed Completion Date |
 | :---: | :---: | :---: |
-| Line Of Sights Path Search(Showcase GUI) : LOS : path search algorithm  | Optimal path search algorithm that uses output of A-Star Search Algorithm and provides even better and shorter path for the same origin and destination| 10 July 2021 |
+| Line Of Sights Path Search (Showcase GUI) : LOS : path search algorithm  | Optimal path search algorithm that uses output of A-Star Search Algorithm and provides even better and shorter path for the same origin and destination| 10 July 2021 |
 | 3D Trajectory Simulator : </br>Acceleration data  | Plotting and simulating 3D geometry of the path travelled using avialable 6-Axis linear and angular acceleration data | 14 July 2021 |
 | Object tracking in </br>hemispherical dome | Camera turret holder following object in a hemispherical space with the help of OpenCV and Kalman Filter | 25 July 2021 |
 | Invisible link in a </br>hemispherical dome | Camera mounted on an arm following object in a hemispherical space maintaining a fix distance from the object | 10 Aug 2021 |
