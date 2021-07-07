@@ -15,7 +15,7 @@
 
 
 ## What Am I Currently Working On?
-+ Developing my own Algorithm <code>Multiple Line Of Sights : MLOS</code> that supersedes <code> A-Star Path Search</code> Algorithm. I plan to make GUI project to showcase my algorithm.
++ Developing my own Algorithm <code>Line Of Sight : LOS : Path Search Algorithm</code> that supersedes <code> A-Star Path Search Algorithm.</code> I plan to make GUI project to showcase my algorithm.
 + Preparing for coding interviews to join ambitious and talented team as a ***Junior C++ Developer***, whose mission and vision aligns with mine.
 
 ## My Mission and Vision In Life
