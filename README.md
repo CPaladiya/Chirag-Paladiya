@@ -28,6 +28,13 @@
 
 ## My C++/Python Programming Projects So Far
 
+| [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) (Fully Owned, Part-I Completed : July 2021)|
+| :---: |
+|  **Tools Used :** C++, OOP, Qt5, Locks, Mutex |
+| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="600"> |
+
+</br>
+
 | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) | [Concurrent Traffic Simulation](https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation) </br> (Partially Owned, Completed : April 2021)|
 | :---: | :---: |
 |  **Tools Used :** C++, OOP, Qt5 | **Tools Used :**  C++, Multi-threading, Concurrency, Locks, Mutex, OOP |
