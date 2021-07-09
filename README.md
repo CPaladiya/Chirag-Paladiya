@@ -31,7 +31,7 @@
 | [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) (Fully Owned, Part-I Completed : July 2021)|
 | :---: |
 |  **Tools Used :** C++, OOP, Qt5, Locks, Mutex |
-| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="600"> |
+| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="500"> |
 
 </br>
 
