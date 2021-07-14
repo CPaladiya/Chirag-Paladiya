@@ -92,7 +92,7 @@ HackerRank [Gold Badge](https://www.hackerrank.com/chirag_paladiya) in C++ codin
 ## Rough Road To My Calling
 
 > **Where there's a will, there's a way!**</br>
-Every single waking minute and 670+ relentless hours spent while working full time as a Mechanical Designer. On June 30 2021, I left my full-time job to chase my calling! Here is the road I followed to get here,
+Every single waking minute and 700+ relentless hours spent while working full time as a Mechanical Designer. On June 30 2021, I left my full-time job to chase my calling! Here is the road I followed to get here,
 
 
 | Name Of The Course | Approx. Hours | Approx. Weeks | Source | Start Date | End Date |
