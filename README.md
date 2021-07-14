@@ -99,7 +99,7 @@ Every single waking minute and 670+ relentless hours spent while working full ti
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Linux Command Line Basics (Continue) | 8 | 1 | [Udacity](https://classroom.udacity.com/courses/ud595) | July 2021 | July 2021 |
 | C++ Pointers (Continue) | 5 | 1 | [freeCodeCamp.org](https://www.youtube.com/watch?v=zuegQmMdy8M&ab_channel=freeCodeCamp.org) | July 2021 | July 2021 |
-| C++ Data Structures (Continue) | 15 | 1 | [freeCodeCamp.org](https://www.youtube.com/watch?v=B31LgI4Y4DQ&list=PLEYMhe1yRdYHRMvH6EUKKbHQzKB4vIQid&ab_channel=freeCodeCamp.org) | July 2021 | July 2021 |
+| C++ Data Structures (Continue) | 25 | 1 | [freeCodeCamp.org](https://www.youtube.com/watch?v=B31LgI4Y4DQ&list=PLEYMhe1yRdYHRMvH6EUKKbHQzKB4vIQid&ab_channel=freeCodeCamp.org) | July 2021 | July 2021 |
 | C++ NanoDegree | 290-320 | 22-23 | [Udacity](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) | Jan 2021 | Jun 2021 |
 | CMake and Make | 40 | 3 | [TechnoCupid](https://courses.technocupid.com/courses/cmake)| April 2021 | May 2021 |
 | Refresh Your Resume | 6 | 1 | [Udacity](https://www.udacity.com/course/refresh-your-resume--ud243)| May 2021 | May 2021 |
