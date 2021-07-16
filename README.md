@@ -28,10 +28,10 @@
 
 ## My C++/Python Programming Projects So Far
 
-|  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) (Fully Owned, Part-I Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
+|  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) </br> (Fully Owned, Part-I Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
 | :---: | :---: |
 |  **Tools Used :** C++, OOP, Qt5 | **Tools Used :** C++, OOP, Qt5, Locks, Mutex  |
-| <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="900"> | <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="500"> |
+| <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="900"> | <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="680"> |
 
 </br>
 
@@ -96,9 +96,9 @@ Every single waking minute and 700+ relentless hours spent while working full ti
 
 | Name Of The Course | Approx. Hours | Approx. Weeks | Source | Start Date | End Date |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Linux Command Line Basics (Continue) | 8 | 1 | [Udacity](https://classroom.udacity.com/courses/ud595) | July 2021 | July 2021 |
 | C++ Pointers (Continue) | 5 | 1 | [freeCodeCamp.org](https://www.youtube.com/watch?v=zuegQmMdy8M&ab_channel=freeCodeCamp.org) | July 2021 | July 2021 |
 | C++ Data Structures (Continue) | 25 | 1 | [freeCodeCamp.org](https://www.youtube.com/watch?v=B31LgI4Y4DQ&list=PLEYMhe1yRdYHRMvH6EUKKbHQzKB4vIQid&ab_channel=freeCodeCamp.org) | July 2021 | July 2021 |
+| Linux Command Line Basics | 4 | 1 | [Udacity](https://classroom.udacity.com/courses/ud595) | July 2021 | July 2021 |
 | C++ NanoDegree | 290-320 | 22-23 | [Udacity](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) | Jan 2021 | Jun 2021 |
 | CMake and Make | 40 | 3 | [TechnoCupid](https://courses.technocupid.com/courses/cmake)| April 2021 | May 2021 |
 | Refresh Your Resume | 6 | 1 | [Udacity](https://www.udacity.com/course/refresh-your-resume--ud243)| May 2021 | May 2021 |
