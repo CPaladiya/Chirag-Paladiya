@@ -52,7 +52,7 @@
 | [Concurrent Traffic Simulation](https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation) </br> (Partially Owned, Completed : April 2021)|
 | :---: |
 | **Tools Used :**  C++, Multi-threading, Concurrency, Locks, Mutex, OOP|
-|<img src="https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation/blob/master/build/ConcurrentTrafficSimulation%20(1).gif" width="760">|
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficSimulation.gif" width="760">|
 
 </br>
 
