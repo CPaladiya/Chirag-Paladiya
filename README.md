@@ -28,18 +28,17 @@
 
 ## My C++/Python Programming Projects So Far
 
-| [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) (Fully Owned, Part-I Completed : July 2021)|
-| :---: |
-|  **Tools Used :** C++, OOP, Qt5, Locks, Mutex |
-| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="500"> |
+|  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) (Fully Owned, Part-I Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
+| :---: | :---: |
+|  **Tools Used :** C++, OOP, Qt5 | **Tools Used :** C++, OOP, Qt5, Locks, Mutex  |
+| <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="900"> | <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="500"> |
 
 </br>
 
-| [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) | [Concurrent Traffic Simulation](https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation) </br> (Partially Owned, Completed : April 2021)|
+| [The Shooting Star](https://github.com/CPaladiya/16_The_Shooting_Star_OCV) </br>(Fully Owned, Completed : May 2021) | [2D Trajectory Simulator for Acceleration Data](https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator) </br> (Fully Owned, Completed : Jan 2021)|
 | :---: | :---: |
-|  **Tools Used :** C++, OOP, Qt5 | **Tools Used :**  C++, Multi-threading, Concurrency, Locks, Mutex, OOP |
-| <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="900"> | <img src="https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation/blob/master/build/ConcurrentTrafficSimulation%20(1).gif" width="760"> |
-
+|  **Tools Used :** C++, OpenCV | **Tools Used :** Python, XLRD, MatPlotlib, NumPy |
+| <img src="https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/build/TheShootingStar.gif" width="900"> | <img src="https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator/blob/No-preprocess/Images/2DTrajectory.gif" width="610"> |
 
 </br>
 
@@ -50,10 +49,10 @@
 
 </br>
 
-| [The Shooting Star](https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/main.cpp) </br>(Fully Owned, Completed : May 2021) | [2D Trajectory Simulator for Acceleration Data](https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator) </br> (Fully Owned, Completed : Jan 2021)|
-| :---: | :---: |
-|  **Tools Used :** C++, OpenCV | **Tools Used :** Python, XLRD, MatPlotlib, NumPy |
-| <img src="https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/build/TheShootingStar.gif" width="900"> | <img src="https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator/blob/No-preprocess/Images/2DTrajectory.gif" width="610"> |
+| [Concurrent Traffic Simulation](https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation) </br> (Partially Owned, Completed : April 2021)|
+| :---: |
+| **Tools Used :**  C++, Multi-threading, Concurrency, Locks, Mutex, OOP|
+|<img src="https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation/blob/master/build/ConcurrentTrafficSimulation%20(1).gif" width="760">|
 
 </br>
 
