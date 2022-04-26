@@ -27,7 +27,7 @@
 > I want to leave behind a better and a sentient world than I know as it is today. Through my work and attitude towards life, I want to positively influence people I am surrounded with and those who rely on the products that I help create. I believe in looking at bigger picture, doing good and pouring my heart and soul into my creations!</br>
 
 
-## Teaching myself to code - My [Story](https://qriousbits.com/projects-that-made-me-professional-developer/)
+## Teaching myself to code - [My Story](https://qriousbits.com/projects-that-made-me-professional-developer/)
 
 |  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) </br> (Fully Owned, Part-I Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
 | :---: | :---: |
