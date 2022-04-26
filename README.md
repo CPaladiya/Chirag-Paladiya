@@ -1,7 +1,7 @@
 # 💻 Chirag Paladiya : Programming Profile
 
-## Recent Grad : C++ Dev : Udacity : Ready To Join Your Team!
-> ✉️ Chirag.paladiya@hotmail.com 🖱️ [Youtube Channel](https://www.youtube.com/channel/UCVaBzSSeyxToSqVezKm9VaQ/videos) 🖥️ [Linkedin](https://www.linkedin.com/in/chiragpaladiya7979/)
+## Software Developer at USNR
+> ✉️ Chirag.paladiya@hotmail.com 🌏[QriousBits.com](https://qriousbits.com/) 🖱️ [Youtube Channel](https://www.youtube.com/channel/UCVaBzSSeyxToSqVezKm9VaQ/videos) 🖥️ [Linkedin](https://www.linkedin.com/in/chiragpaladiya7979/)
 
 ## Go To Section
 + [What Am I Currently Working On?](#What-Am-I-Currently-Working-On?)
@@ -15,8 +15,10 @@
 
 
 ## What Am I Currently Working On?
-+ Developing my own Algorithm <code>Line Of Sight : LOS : Path Search Algorithm</code> that supersedes <code> A-Star Path Search Algorithm.</code> I plan to make GUI project to showcase my algorithm.
-+ Preparing for coding interviews to join ambitious and talented team as a ***Junior C++ Developer***, whose mission and vision aligns with mine.
++ Currently I am enjoying my work at USNR as a software developer. I have been fortunate enough to obtain a position that allows me ample room to learn, implement, experiment and grow. 
++ After joinin USNR in September of 2021, I have extensively worked on in-house developed AI labeling tool and within the core programming R&D team, to develop software enabling our lumber industry customers to identify wood defects with the help of AI and traditional methods of image processing.
++ Meanwhile, I have started a website [QriousBits.com](https://qriousbits.com/), where I explain confusing concepts that is hard to understand for newbie developers and about my journey into the world of programming.
++ Checkout my [Linkedin](https://www.linkedin.com/in/chiragpaladiya7979/) posts to see videos about various professional projects I have done and posts I have written so far.
 
 ## My Mission and Vision In Life
 
@@ -26,12 +28,12 @@
 > I want to leave behind a better and a sentient world than I know as it is today. Through my work and attitude towards life, I want to positively influence people I am surrounded with and those who rely on the products that I help create. I believe in looking at bigger picture, doing good and pouring my heart and soul into my creations!</br>
 
 
-## My C++/Python Programming Projects So Far
+## Teaching myself to code - My [Story](https://qriousbits.com/projects-that-made-me-professional-developer/)
 
 |  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) </br> (Fully Owned, Part-I Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
 | :---: | :---: |
 |  **Tools Used :** C++, OOP, Qt5 | **Tools Used :** C++, OOP, Qt5, Locks, Mutex  |
-| <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="900"> | <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="680"> |
+| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="680"> | <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="900"> |
 
 </br>
 
@@ -78,17 +80,6 @@ HackerRank [Gold Badge](https://www.hackerrank.com/chirag_paladiya) in C++ codin
 
 ## Professional Experience Before Programming - [Check it out here!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md)
 ## Sweet Fruits Of Life! - [Check it out here!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md#checkered_flag-sweet-fruits-of-life-checkered_flag)
-
-## Next Projects and Estimated Time of Completion
-
-| Name Of The Project | Description | Aimed Completion Date |
-| :---: | :---: | :---: |
-| Line Of Sights Path Search (Showcase GUI) : LOS : path search algorithm  | Optimal path search algorithm that uses output of A-Star Search Algorithm and provides even better and shorter path for the same origin and destination| 10 July 2021 |
-| 3D Trajectory Simulator : </br>Acceleration data  | Plotting and simulating 3D geometry of the path travelled using avialable 6-Axis linear and angular acceleration data | 14 July 2021 |
-| Object tracking in </br>hemispherical dome | Camera turret holder following object in a hemispherical space with the help of OpenCV and Kalman Filter | 25 July 2021 |
-| Invisible link in a </br>hemispherical dome | Camera mounted on an arm following object in a hemispherical space maintaining a fix distance from the object | 10 Aug 2021 |
-
-</br>
 
 ## Rough Road To My Calling
 
