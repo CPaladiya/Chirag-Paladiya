@@ -6,7 +6,7 @@
 ## Go To Section
 + [What Am I Currently Working On?](#What-Am-I-Currently-Working-On?)
 + [My Mission and Vision In Life](#My-Mission-and-Vision-In-Life)
-+ [Teaching myself to code - My Story](#teaching-myself-to-code---my-story)
++ [Teaching myself to code - My story](#teaching-myself-to-code---my-story)
 + [Coding Skills/IKM Assessment (C++17 ISO STANDARD)](#coding-skillsikm-assessment-c17-iso-standard)
 + [Professional Experience Before Programming](https://github.com/CPaladiya/Before_Programming/blob/main/README.md)
 + [Sweet Fruits Of Life!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md#sweet-fruits-of-life-checkered_flag)
@@ -27,7 +27,7 @@
 > I want to leave behind a better and a sentient world than I know as it is today. Through my work and attitude towards life, I want to positively influence people I am surrounded with and those who rely on the products that I help create. I believe in looking at bigger picture, doing good and pouring my heart and soul into my creations!</br>
 
 
-## Teaching myself to code - [My Story](https://qriousbits.com/projects-that-made-me-professional-developer/)
+## Teaching myself to code - [My story](https://qriousbits.com/projects-that-made-me-professional-developer/)
 
 |  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) </br> (Fully Owned, Part-I Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
 | :---: | :---: |
