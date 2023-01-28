@@ -14,10 +14,10 @@
 
 
 ## What Am I Currently Working On?
-+ Currently I am enjoying my work at USNR as a software developer. I have been fortunate enough to obtain a position that allows me ample room to learn, implement, experiment and grow. 
-+ After joinin USNR in September of 2021, I have extensively worked on in-house developed AI labeling tool and within the core programming R&D team, to develop software enabling our lumber industry customers to identify wood defects with the help of AI and traditional methods of image processing.
-+ Meanwhile, I have started a website [QriousBits.com](https://qriousbits.com/), where I explain confusing concepts that is hard to understand for newbie developers and about my journey into the world of programming.
-+ Checkout my [Linkedin](https://www.linkedin.com/in/chiragpaladiya7979/) posts to see videos about various professional projects I have done and posts I have written so far.
++ Currently (professionally) I am working on developing a labeling facility required to train Nueral Network for better pith location detection.
++ I am reading [C++:Novice to Professional](https://www.amazon.ca/Beginning-C-20-Novice-Professional/dp/1484258835/ref=asc_df_1484258835/?tag=googleshopc0c-20&linkCode=df0&hvadid=459570636679&hvpos=&hvnetw=g&hvrand=8283766900072632089&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001952&hvtargid=pla-923159403590&psc=1) these days. The notes I take and practice examples I do is located at this [repository.](https://github.com/CPaladiya/CppNotes/tree/main/CppNotes)
++ Meanwhile, I write on my website [QriousBits.com](https://qriousbits.com/) from time to time about confusing concepts that is hard to understand for newbie developers and I have also wrote about my journey into the world of programming.
++ Personally, I am enjoying skiing currently and reading the book [To Kill a Mockingbird.](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird)
 
 ## My Mission and Vision In Life
 
@@ -67,7 +67,7 @@
 
 
 
-## Coding Skills/IKM Assessment (C++17 ISO STANDARD)
+## Training/Coding Skills
 
 Want to check the full analysis? please click [here!](https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg)
 
