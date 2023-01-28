@@ -4,20 +4,13 @@
 > ✉️ Chirag.paladiya@hotmail.com 🌏[QriousBits.com](https://qriousbits.com/) 🖱️ [Youtube Channel](https://www.youtube.com/channel/UCVaBzSSeyxToSqVezKm9VaQ/videos) 🖥️ [Linkedin](https://www.linkedin.com/in/chiragpaladiya7979/)
 
 ## Go To Section
-+ [What Am I Currently Working On?](#What-Am-I-Currently-Working-On?)
-+ [My Mission and Vision In Life](#My-Mission-and-Vision-In-Life)
-+ [Teaching myself to code - My story](#teaching-myself-to-code---my-story)
-+ [Coding Skills/IKM Assessment (C++17 ISO STANDARD)](#coding-skillsikm-assessment-c17-iso-standard)
-+ [Professional Experience Before Programming](https://github.com/CPaladiya/Before_Programming/blob/main/README.md)
-+ [Sweet Fruits Of Life!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md#sweet-fruits-of-life-checkered_flag)
-+ [Rough Road To My Calling](#Rough-Road-To-My-Calling)
 
 
 ## What Am I Currently Working On?
 + Currently (professionally) I am working on developing a labeling facility required to train Nueral Network for better pith location detection.
 + I am reading [C++:Novice to Professional](https://www.amazon.ca/Beginning-C-20-Novice-Professional/dp/1484258835/ref=asc_df_1484258835/?tag=googleshopc0c-20&linkCode=df0&hvadid=459570636679&hvpos=&hvnetw=g&hvrand=8283766900072632089&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001952&hvtargid=pla-923159403590&psc=1) these days. The notes I take and practice examples I do is located at this [repository.](https://github.com/CPaladiya/CppNotes/tree/main/CppNotes)
 + Meanwhile, I write on my website [QriousBits.com](https://qriousbits.com/) from time to time about confusing concepts that is hard to understand for newbie developers and I have also wrote about my journey into the world of programming.
-+ Personally, I am enjoying skiing currently and reading the book [To Kill a Mockingbird.](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird)
++ Personally, I am enjoying skiing this winter and reading a book called [To Kill a Mockingbird.](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird)
 
 ## My Mission and Vision In Life
 
@@ -26,8 +19,29 @@
 + :dart::checkered_flag: My Vision : 
 > I want to leave behind a better and a sentient world than I know as it is today. Through my work and attitude towards life, I want to positively influence people I am surrounded with and those who rely on the products that I help create. I believe in looking at bigger picture, doing good and pouring my heart and soul into my creations!</br>
 
+## Professional Projects (Only ones with visible feedback)
 
-## Teaching myself to code - [My story](https://qriousbits.com/projects-that-made-me-professional-developer/)
+| Pith Finder Optimization </br> (Partially Owned, Completed : Jan 2023)|
+| :---: |
+| **Tools Used :** C++, OpenCV, DNN |
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficSimulation.gif" width="760">|
+
+</br>
+
+| Labeling With Splines </br> (Fully Owned, Completed : June 2022)|
+| :---: |
+| **Tools Used :**  C#, WPF, .NET |
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficSimulation.gif" width="760">|
+
+</br>
+
+| Smart Defect Labeling </br> (Fully Owned, Completed : Feb 2022)|
+| :---: |
+| **Tools Used :**  C#, WPF, .NET, Emgu.CV, GrabCut |
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficSimulation.gif" width="760">|
+
+
+## Personal Robotics/Programming Projects
 
 |  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) </br> (Fully Owned, Part-I Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
 | :---: | :---: |
