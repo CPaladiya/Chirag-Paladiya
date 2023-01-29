@@ -44,10 +44,15 @@
 
 ## Personal Robotics/Programming Projects
 
+|  [Servo 360 Dome](https://github.com/CPaladiya/360_servo_dome) </br> (Fully Owned, Completed : Sep 2021) | 
+| :---: | 
+|  **Tools Used :** Python, Raspberry Pi, Pi Camera, OpenCV |
+| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/Servo%20360%20Dome.gif" width="700"> |
+
 |  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) </br> (Fully Owned, Part-I Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
 | :---: | :---: |
 |  **Tools Used :** C++, OOP, Qt5 | **Tools Used :** C++, OOP, Qt5, Locks, Mutex  |
-| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="400"> | <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="400"> |
+| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="400"> | <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="450"> |
 
 </br>
 
@@ -80,9 +85,7 @@ Want to check the full analysis? please click [here!](https://github.com/CPaladi
 
 <img src="https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_AssessmentPartial.png" width="600">
 
-HackerRank [Gold Badge](https://www.hackerrank.com/chirag_paladiya) in C++ coding skills,
-
-<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/HackerRank.png" width="100">
+HackerRank [Gold Badge](https://www.hackerrank.com/chirag_paladiya) in C++ coding skills.
 
 ## Professional Experience Before Programming - [Check it out here!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md)
 ## Sweet Fruits Of Life! - [Check it out here!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md#checkered_flag-sweet-fruits-of-life-checkered_flag)
