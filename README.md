@@ -23,6 +23,7 @@
 
 | Pith Finder Optimization </br> (Partially Owned, Completed : Jan 2023)| 
 | :---: |
+|**Task** : Improve accuracy of pith location detection by modifying post processing algorithm that works in conjunction with DNN results|
 | **Tools Used :** C++, OpenCV, DNN |
 |<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/PithFinder.png" width="500">|
 
@@ -30,6 +31,7 @@
 
 | Density Based Clustering To Find Clusters of Defects </br> (Partially Owned, Completed : May 2022)| 
 | :---: |
+|**Task** : Add ability to filter defects based on number of neighbors and some minimum distance|
 | **Tools Used :** C++, DBSCAN |
 |<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/DensityBasedClustering.png" width="800">|
 
@@ -37,6 +39,7 @@
 
 | Labeling With Splines </br> (Fully Owned, Completed : April 2022)|
 | :---: |
+|Task : Allow users to label with spline instead of just polygons|
 | **Tools Used :**  C#, WPF, .NET |
 |<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SplineLabeling.gif" width="445"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyH.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeySelect.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyResDelete.gif" width="300">|
 
@@ -44,6 +47,7 @@
 
 | Smart Defect Labeling </br> (Fully Owned, Completed : Feb 2022)|
 | :---: |
+|**Task** : Allow internal users to draw defect boundaries just using scribbles and add ability to see effects of boundary parameters.|
 | **Tools Used :**  C#, WPF, .NET, Emgu.CV, GrabCut |
 |<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SmartDefectSelect.gif" width="520"> <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/DefectPreviewWindow.gif" width="450">|
 
@@ -69,17 +73,10 @@
 
 </br>
 
-| [Live Linux System Monitor](https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya) (Partially Owned, Completed : Feb 2021)|
-| :---: |
-|  **Tools Used :** C++, NCurses |
-| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="700"> |
-
-</br>
-
-| [Concurrent Traffic Simulation](https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation) </br> (Partially Owned, Completed : April 2021)|
-| :---: |
-| **Tools Used :**  C++, Multi-threading, Concurrency, Locks, Mutex, OOP|
-|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficSimulation.gif" width="400">|
+| [Live Linux System Monitor](https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya) (Partially Owned, Completed : Feb 2021)|[Concurrent Traffic Simulation](https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation) </br> (Partially Owned, Completed : April 2021)|
+| :---: | :---: |
+|  **Tools Used :** C++, NCurses |**Tools Used :**  C++, Multi-threading, Concurrency, Locks, Mutex, OOP|
+| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="650"> |<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficSimulation.gif" width="300">|
 
 </br>
 
