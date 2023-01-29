@@ -101,7 +101,7 @@
 
 
 
-## All the courses I did to learn programming basics
+## Teaching myself to code
 
 > **Where there's a will, there's a way!**</br>
 Every single waking minute and 700+ relentless hours spent while working full time as a Mechanical Designer. On June 30 2021, I left my full-time job to chase my calling! Here is the road I followed to get here,
