@@ -21,24 +21,31 @@
 
 ## Professional Projects (Only ones with visible feedback)
 
-| Pith Finder Optimization </br> (Partially Owned, Completed : Jan 2023)|
+| Pith Finder Optimization </br> (Partially Owned, Completed : Jan 2023)| 
 | :---: |
 | **Tools Used :** C++, OpenCV, DNN |
-|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/PithFinder.png" width="600">|
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/PithFinder.png" width="500">|
 
 </br>
 
-| Labeling With Splines </br> (Fully Owned, Completed : June 2022)|
+| Density Based Clustering To Find Clusters of Defects </br> (Partially Owned, Completed : May 2022)| 
+| :---: |
+| **Tools Used :** C++, DBSCAN |
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/DensityBasedClustering.png" width="800">|
+
+</br>
+
+| Labeling With Splines </br> (Fully Owned, Completed : April 2022)|
 | :---: |
 | **Tools Used :**  C#, WPF, .NET |
-|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SplineLabeling.gif" width="400"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyH.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeySelect.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyResDelete.gif" width="300">|
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SplineLabeling.gif" width="445"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyH.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeySelect.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyResDelete.gif" width="300">|
 
 </br>
 
 | Smart Defect Labeling </br> (Fully Owned, Completed : Feb 2022)|
 | :---: |
 | **Tools Used :**  C#, WPF, .NET, Emgu.CV, GrabCut |
-|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SmartDefectSelect.gif" width="480"> <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/DefectPreviewWindow.gif" width="480">|
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SmartDefectSelect.gif" width="520"> <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/DefectPreviewWindow.gif" width="450">|
 
 
 ## Personal Robotics/Programming Projects
@@ -46,26 +53,26 @@
 |  [Servo 360 Dome](https://github.com/CPaladiya/360_servo_dome) </br> (Fully Owned, Completed : Sep 2021) | 
 | :---: | 
 |  **Tools Used :** Python, Raspberry Pi, Pi Camera, OpenCV |
-| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/Servo%20360%20Dome.gif" width="600"> |
+| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/Servo%20360%20Dome.gif" width="550"> |
 
 |  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) </br> (Fully Owned, Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
 | :---: | :---: |
 |  **Tools Used :** C++, OOP, Qt5 | **Tools Used :** C++, OOP, Qt5, Locks, Mutex  |
-| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="400"> | <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="450"> |
+| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="360"> | <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="470"> |
 
 </br>
 
 | [The Shooting Star](https://github.com/CPaladiya/16_The_Shooting_Star_OCV) </br>(Fully Owned, Completed : May 2021) | [2D Trajectory Simulator for Acceleration Data](https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator) </br> (Fully Owned, Completed : Jan 2021)|
 | :---: | :---: |
 |  **Tools Used :** C++, OpenCV | **Tools Used :** Python, XLRD, MatPlotlib, NumPy |
-| <img src="https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/build/TheShootingStar.gif" width="400"> | <img src="https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator/blob/No-preprocess/Images/2DTrajectory.gif" width="400"> |
+| <img src="https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/build/TheShootingStar.gif" width="470"> | <img src="https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator/blob/No-preprocess/Images/2DTrajectory.gif" width="330"> |
 
 </br>
 
 | [Live Linux System Monitor](https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya) (Partially Owned, Completed : Feb 2021)|
 | :---: |
 |  **Tools Used :** C++, NCurses |
-| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="990"> |
+| <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="700"> |
 
 </br>
 
