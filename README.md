@@ -31,8 +31,7 @@
 | Labeling With Splines </br> (Fully Owned, Completed : June 2022)|
 | :---: |
 | **Tools Used :**  C#, WPF, .NET |
-|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SplineLabeling.gif" width="400">|
-|<img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyH.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyUndo.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeySelect.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyAddPoints.gif" width="300"><img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyResDelete.gif" width="300">|
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SplineLabeling.gif" width="400"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyH.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeySelect.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyResDelete.gif" width="300">|
 
 </br>
 
@@ -47,7 +46,7 @@
 |  [Servo 360 Dome](https://github.com/CPaladiya/360_servo_dome) </br> (Fully Owned, Completed : Sep 2021) | 
 | :---: | 
 |  **Tools Used :** Python, Raspberry Pi, Pi Camera, OpenCV |
-| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/Servo%20360%20Dome.gif" width="700"> |
+| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/Servo%20360%20Dome.gif" width="600"> |
 
 |  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) </br> (Fully Owned, Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
 | :---: | :---: |
