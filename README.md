@@ -5,7 +5,7 @@
 
 ## Go To Section
 + [What Am I Currently Working On?](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#what-am-i-currently-working-on)
-+ [My Mission/Vision in life](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#my-mission-and-vision-in-life)
++ [My Mission/Vision In Life](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#my-mission-and-vision-in-life)
 + [Few of My Professional Projects](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#few-of-my-professional-projects)
 + [Significant Personal Projects](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#personal-roboticsprogramming-projects)
 + [Previous Work Experience & Achievements](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#previous-professional-experience--achievements---check-it-out-here)
@@ -26,7 +26,7 @@
 
 ## Few of My Professional Projects
 
-| Pith Finder Optimization </br> (Partially Owned, Completed : Jan 2023)| 
+| Pith Finder Optimization </br> (Fully Owned, Completed : Jan 2023)| 
 | :---: |
 |**Task** : Improved accuracy of pith location detection by 15% by modifying </br> post processing algorithm that works in conjunction with Deep Neural Networks|
 | **Tools Used :** C++, OpenCV, DNN |
@@ -34,7 +34,7 @@
 
 </br>
 
-| Density Based Clustering To Find Clusters of Defects </br> (Partially Owned, Completed : May 2022)| 
+| Density Based Clustering To Find Clusters of Defects </br> (Fully Owned, Completed : May 2022)| 
 | :---: |
 |**Task** : Add ability to filter defects based on number of neighbors and some minimum distance|
 | **Tools Used :** C++, DBSCAN |
