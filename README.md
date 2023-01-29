@@ -1,13 +1,18 @@
 # 💻 Chirag Paladiya : Programming Profile
 
-## Software Developer at USNR
+## Software Developer at USNR (US Natural Resources Inc.)
 > ✉️ Chirag.paladiya@hotmail.com 🌏[QriousBits.com](https://qriousbits.com/) 🖱️ [Youtube Channel](https://www.youtube.com/channel/UCVaBzSSeyxToSqVezKm9VaQ/videos) 🖥️ [Linkedin](https://www.linkedin.com/in/chiragpaladiya7979/)
 
 ## Go To Section
-
++ [What Am I Currently Working On?](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#what-am-i-currently-working-on)
++ [My Mission/Vision in life](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#my-mission-and-vision-in-life)
++ [Some of My Professional Projects](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#professional-projects-only-ones-with-visible-feedback)
++ [Some of My Personal Projects](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#personal-roboticsprogramming-projects)
++ [Previous Work Experience & Achievements](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#previous-professional-experience--achievements---check-it-out-here)
++ [Training & Certificates](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#trainingcoding-skills)
 
 ## What Am I Currently Working On?
-+ Currently (professionally) I am working on developing a labeling facility required to train Nueral Network for better pith location detection.
++ Currently (professionally) I am working on developing a labeling facility required to train Nueral Networks for better pith location detection.
 + I am reading [C++:Novice to Professional](https://www.amazon.ca/Beginning-C-20-Novice-Professional/dp/1484258835/ref=asc_df_1484258835/?tag=googleshopc0c-20&linkCode=df0&hvadid=459570636679&hvpos=&hvnetw=g&hvrand=8283766900072632089&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001952&hvtargid=pla-923159403590&psc=1) these days. The notes I take and practice examples I do is located at this [repository.](https://github.com/CPaladiya/CppNotes/tree/main/CppNotes)
 + Meanwhile, I write on my website [QriousBits.com](https://qriousbits.com/) from time to time about confusing concepts that is hard to understand for newbie developers and about my journey into the world of programming.
 + Personally, I am enjoying skiing this winter and reading a book called [To Kill a Mockingbird.](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird)
