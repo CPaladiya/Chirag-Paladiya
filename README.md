@@ -23,7 +23,7 @@
 
 | Pith Finder Optimization </br> (Partially Owned, Completed : Jan 2023)| 
 | :---: |
-|**Task** : Improve accuracy of pith location detection by modifying post processing algorithm that works in conjunction with DNN results|
+|**Task** : Improved accuracy of pith location detection by 15% by modifying </br> post processing algorithm that works in conjunction with Deep Neural Networks|
 | **Tools Used :** C++, OpenCV, DNN |
 |<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/PithFinder.png" width="500">|
 
