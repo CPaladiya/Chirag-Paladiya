@@ -37,7 +37,7 @@
 
 </br>
 
-| Labeling With Splines </br> (Fully Owned, Completed : April 2022)|
+| [Labeling With Splines](https://github.com/CPaladiya/CatMull-Rom-Spline) </br> (Fully Owned, Completed : April 2022)|
 | :---: |
 |Task : Allow users to label with spline instead of just polygons|
 | **Tools Used :**  C#, WPF, .NET |
@@ -73,7 +73,7 @@
 
 </br>
 
-| [Live Linux System Monitor](https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya) (Partially Owned, Completed : Feb 2021)|[Concurrent Traffic Simulation](https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation) </br> (Partially Owned, Completed : April 2021)|
+| [Live Linux System Monitor](https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya) </br> (C++ Nano Degree - Partially Owned, Completed : Feb 2021)|[Concurrent Traffic Simulation](https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation) </br> (C++ Nano Degree - Partially Owned, Completed : April 2021)|
 | :---: | :---: |
 |  **Tools Used :** C++, NCurses |**Tools Used :**  C++, Multi-threading, Concurrency, Locks, Mutex, OOP|
 | <img src="https://github.com/CPaladiya/09_CppND_System_Monitor_ChiragPaladiya/blob/master/images/LiveLinuxMonitor.gif" width="650"> |<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficSimulation.gif" width="300">|
@@ -93,6 +93,7 @@
 * [C++ Nano Degree](https://confirm.udacity.com/THPVDUTF)
 
 * [Intro To Self-Driving Cars Nano Degree](https://confirm.udacity.com/ZLXPRNK5)
+
 
 
 ## All the courses I did to learn programming basics
@@ -115,4 +116,3 @@ Every single waking minute and 700+ relentless hours spent while working full ti
 | Essence of linear algebra | 32 | 2 | [3Blue1Brown](https://lnkd.in/eTqsWQr)| Jul 2020 | Jul 2020 |
 | Introduction to Python | 40 | 3 | [Udacity](https://bit.ly/2TclkYz)| Jun 2020 | Jul 2020 |
 | Statistics and Probability | 75 | 14-15 | [Khan Academy](https://www.khanacademy.org/math/statistics-probability)| May 2020 | Jun 2020 |
-
