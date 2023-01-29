@@ -6,8 +6,8 @@
 ## Go To Section
 + [What Am I Currently Working On?](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#what-am-i-currently-working-on)
 + [My Mission/Vision in life](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#my-mission-and-vision-in-life)
-+ [Some of My Professional Projects](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#professional-projects-only-ones-with-visible-feedback)
-+ [Some of My Personal Projects](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#personal-roboticsprogramming-projects)
++ [Few of My Professional Projects](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#few-of-my-professional-projects)
++ [Significant Personal Projects](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#personal-roboticsprogramming-projects)
 + [Previous Work Experience & Achievements](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#previous-professional-experience--achievements---check-it-out-here)
 + [Training & Certificates](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#trainingcoding-skills)
 
@@ -24,7 +24,7 @@
 + :dart::checkered_flag: My Vision : 
 > I want to leave behind a better and a sentient world than I know as it is today. Through my work and attitude towards life, I want to positively influence people I am surrounded with and those who rely on the products that I help create. I believe in looking at bigger picture, doing good and pouring my heart and soul into my creations!</br>
 
-## Professional Projects (Only ones with visible feedback)
+## Few of My Professional Projects
 
 | Pith Finder Optimization </br> (Partially Owned, Completed : Jan 2023)| 
 | :---: |
