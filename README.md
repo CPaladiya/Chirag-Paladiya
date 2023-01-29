@@ -54,7 +54,7 @@
 | :---: |
 |**Task** : Allow internal users to draw defect boundaries just using scribbles and add ability to see effects of boundary parameters.|
 | **Tools Used :**  C#, WPF, .NET, Emgu.CV, GrabCut |
-|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SmartDefectSelect.gif" width="350"> <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/DefectPreviewWindow.gif" width="430">|
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SmartDefectSelect.gif" width="380"> <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/DefectPreviewWindow.gif" width="400">|
 
 
 ## Personal Robotics/Programming Projects
