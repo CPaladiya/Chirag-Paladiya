@@ -80,20 +80,22 @@
 
 </br>
 
-
+## Previous Professional Experience & Achievements - [Check it out here!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md)
 
 ## Training/Coding Skills
 
-Want to check the full analysis? please click [here!](https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg)
+* [IBM AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/RBHMH5JCR8J5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
-<img src="https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_AssessmentPartial.png" width="600">
+* HackerRank [Gold Badge](https://www.hackerrank.com/chirag_paladiya) in C++ coding skills.
 
-HackerRank [Gold Badge](https://www.hackerrank.com/chirag_paladiya) in C++ coding skills.
+* [IKM Coding Assessment-](https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg) 80/100
 
-## Professional Experience Before Programming - [Check it out here!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md)
-## Sweet Fruits Of Life! - [Check it out here!](https://github.com/CPaladiya/Before_Programming/blob/main/README.md#checkered_flag-sweet-fruits-of-life-checkered_flag)
+* [C++ Nano Degree](https://confirm.udacity.com/THPVDUTF)
 
-## Rough Road To My Calling
+* [Intro To Self-Driving Cars Nano Degree](https://confirm.udacity.com/ZLXPRNK5)
+
+
+## All the courses I did to learn programming basics
 
 > **Where there's a will, there's a way!**</br>
 Every single waking minute and 700+ relentless hours spent while working full time as a Mechanical Designer. On June 30 2021, I left my full-time job to chase my calling! Here is the road I followed to get here,
