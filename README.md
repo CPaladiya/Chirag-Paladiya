@@ -31,14 +31,15 @@
 | Labeling With Splines </br> (Fully Owned, Completed : June 2022)|
 | :---: |
 | **Tools Used :**  C#, WPF, .NET |
-|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SmartDefectSelect.gif" width="400"> <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/DefectPreviewWindow.gif" width="400">|
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SplineLabeling.gif" width="400">|
+|<img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyH.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyUndo.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeySelect.gif" width="300"> <img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyAddPoints.gif" width="300"><img src="https://github.com/CPaladiya/CatMull-Rom-Spline/blob/main/Images/HotKeyResDelete.gif" width="300">|
 
 </br>
 
 | Smart Defect Labeling </br> (Fully Owned, Completed : Feb 2022)|
 | :---: |
 | **Tools Used :**  C#, WPF, .NET, Emgu.CV, GrabCut |
-|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficSimulation.gif" width="760">|
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/SmartDefectSelect.gif" width="480"> <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/DefectPreviewWindow.gif" width="480">|
 
 
 ## Personal Robotics/Programming Projects
@@ -46,22 +47,14 @@
 |  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) </br> (Fully Owned, Part-I Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
 | :---: | :---: |
 |  **Tools Used :** C++, OOP, Qt5 | **Tools Used :** C++, OOP, Qt5, Locks, Mutex  |
-| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="680"> | <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="900"> |
+| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/AStar.gif" width="400"> | <img src="https://github.com/CPaladiya/14_BlackJack/blob/master/Image/BlackJack.gif" width="400"> |
 
 </br>
 
 | [The Shooting Star](https://github.com/CPaladiya/16_The_Shooting_Star_OCV) </br>(Fully Owned, Completed : May 2021) | [2D Trajectory Simulator for Acceleration Data](https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator) </br> (Fully Owned, Completed : Jan 2021)|
 | :---: | :---: |
 |  **Tools Used :** C++, OpenCV | **Tools Used :** Python, XLRD, MatPlotlib, NumPy |
-| <img src="https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/build/TheShootingStar.gif" width="900"> | <img src="https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator/blob/No-preprocess/Images/2DTrajectory.gif" width="610"> |
-
-</br>
-
-
-| Traffic Light Classifier (Fully Owned, Completed : Dec 2020)|
-| :---: |
-|  **Tools Used :** Python, OpenCV, NumPy, MatPlotLib |
-| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficLightClassifier.png" width="990"> |
+| <img src="https://github.com/CPaladiya/12_OpenCV_RoadMap/blob/master/build/TheShootingStar.gif" width="400"> | <img src="https://github.com/CPaladiya/05_Gyro_accel_2D_trajectory_generator/blob/No-preprocess/Images/2DTrajectory.gif" width="400"> |
 
 </br>
 
@@ -75,7 +68,7 @@
 | [Concurrent Traffic Simulation](https://github.com/CPaladiya/11_CPPND-Concurrent-Traffic-Simulation) </br> (Partially Owned, Completed : April 2021)|
 | :---: |
 | **Tools Used :**  C++, Multi-threading, Concurrency, Locks, Mutex, OOP|
-|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficSimulation.gif" width="760">|
+|<img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/TrafficSimulation.gif" width="400">|
 
 </br>
 
@@ -85,7 +78,7 @@
 
 Want to check the full analysis? please click [here!](https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_Assessment.jpg)
 
-<img src="https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_AssessmentPartial.png" width="1100">
+<img src="https://github.com/CPaladiya/Chirag_Paladiya/blob/main/IKM_AssessmentPartial.png" width="600">
 
 HackerRank [Gold Badge](https://www.hackerrank.com/chirag_paladiya) in C++ coding skills,
 
