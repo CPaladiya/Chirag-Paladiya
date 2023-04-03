@@ -13,8 +13,6 @@
 
 ## What Am I Currently Working On?
 + Currently (professionally) I am working on developing a labeling facility required to train Nueral Networks for better pith location detection.
-+ I am reading [C++:Novice to Professional](https://www.amazon.ca/Beginning-C-20-Novice-Professional/dp/1484258835/ref=asc_df_1484258835/?tag=googleshopc0c-20&linkCode=df0&hvadid=459570636679&hvpos=&hvnetw=g&hvrand=8283766900072632089&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001952&hvtargid=pla-923159403590&psc=1) these days. The notes I take and practice examples I do is located at this [repository.](https://github.com/CPaladiya/CppNotes/tree/main/CppNotes)
-+ Personally, I am enjoying skiing this winter and reading a book called [To Kill a Mockingbird.](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird)
 
 ## My Mission and Vision In Life
 
