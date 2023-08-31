@@ -12,7 +12,7 @@
 + [Training & Certificates](https://github.com/CPaladiya/Chirag-Paladiya/edit/main/README.md#trainingcoding-skills)
 
 ## What Am I Currently Working On?
-+ Currently (professionally) I am working on developing a labeling facility required to train Nueral Networks for better pith location detection.
++ Currently (professionally) I am working on developing a labeling facility required to train Nueral Networks for better pith location detection along with nueral networks that will predict such values.
 
 ## My Mission and Vision In Life
 
@@ -56,10 +56,10 @@
 
 ## Personal Robotics/Programming Projects
 
-|  [Servo 360 Dome](https://github.com/CPaladiya/360_servo_dome) </br> (Fully Owned, Completed : Sep 2021) | 
-| :---: | 
-|  **Tools Used :** Python, Raspberry Pi, Pi Camera, OpenCV |
-| <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/Servo%20360%20Dome.gif" width="550"> |
+| [Depth Camera](https://github.com/CPaladiya/StereoVisionDepthCam) </br> (Fully Owned, Completed : Aug 2023) |  [Servo 360 Dome](https://github.com/CPaladiya/360_servo_dome) </br> (Fully Owned, Completed : Sep 2021) |
+| :---: | :---: | 
+|  **Tools Used :** Python, Multiprocessing, OpenCV  |  **Tools Used :** Python, Raspberry Pi, Pi Camera, OpenCV |
+| <img src="https://github.com/CPaladiya/StereoVisionDepthCam/blob/main/data/DepthCam.gif" width="400"> | <img src="https://github.com/CPaladiya/Chirag-Paladiya/blob/main/Servo%20360%20Dome.gif" width="400"> |
 
 |  [A-Star Path Search Simulation](https://github.com/CPaladiya/15_LOS_Path_Finder) </br> (Fully Owned, Completed : July 2021) | [Black Jack GUI Game](https://github.com/CPaladiya/14_BlackJack) </br> (Fully Owned, Completed : June 2021) |
 | :---: | :---: |
